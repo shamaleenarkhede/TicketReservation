@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ticket Reservation</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="trip">Trip</string>
+    <string name="oneway">One way</string>
+    <string name="roundtrip">Round Trip</string>
+    <string name="ddate">Departure Date</string>
+    <string name="time">Time</string>
+    <string name="PrintSummary">Save</string>
+    <string name="title_activity_print__ticket">Print_Ticket</string>
+    <string name="itienary">Itinerary</string>
+    <string name="return1">Return</string>
+    <string name="finish">Finish</string>
+    <string name="departure">Departure</string>
+    <string name="return_date">Returning date</string>
+    <string name="btncreateticket">Create Ticket</string>
+    <string name="btneditticket">Edit Ticket</string>
+    <string name="btndeleteticket">Delete Ticket</string>
+    <string name="btnviewticket">View Ticket</string>
+    <string name="btnfinish">Finish</string>
+    <string name="tv_customercare">Customer Care:999-999-9999</string>
+    <string name="btnccare">Customer Care: 999-999-9999</string>
+    <string name="et_date">Date:</string>
+    <string name="textview_name" />
+    <string name="textview_destination">Destination</string>
+    <string name="editteext_name" />
+    <string name="edittext_source" />
+    <string name="title_activity_edit_">Edit_Activity</string>
+    <string name="select">Select Ticket</string>
+    <string name="pickticket">Pick a Ticket</string>
+    <string name="selectbutton">Select Ticket</string>
+
+
+</resources>
